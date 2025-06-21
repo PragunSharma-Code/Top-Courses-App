@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-bgDark {
+    --tw-bg-opacity: 1;
+    background-color: rgb(34 34 59 / var(--tw-bg-opacity, 1)) /* #22223b */;
+}
+
+.bg-bgDark {
+    --tw-bg-opacity: 1;
+    background-color: rgb(34 34 59 / var(--tw-bg-opacity, 1)) /* #22223b */;
+}
+
+.bg-bgDark2 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(74 78 105 / var(--tw-bg-opacity, 1)) /* #4a4e69 */;
+}
+
+.bg-opacity-60 {
+    --tw-bg-opacity: 0.6;
+}
+
+
+.bg-opacity-40 {
+    --tw-bg-opacity: 0.4;
+}
